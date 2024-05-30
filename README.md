@@ -1,7 +1,7 @@
 # 🌟 Bem-vindo ao Meu Perfil GitHub! 🌟
 
 ## 👋 Sobre Mim
-Olá! Sou um desenvolvedor web com foco principal em front-end. Tenho uma paixão por criar interfaces de usuário elegantes e funcionais, utilizando as melhores práticas e tecnologias disponíveis.
+Olá! Sou um desenvolvedor web com foco principal em front-end. Atualmente estou trabalhando no Projeto Severino, desenvolvendo principalmente a parte gráfica.
 
 ## 🛠️ Tecnologias e Ferramentas
 Aqui estão algumas das tecnologias e ferramentas com as quais trabalho:
