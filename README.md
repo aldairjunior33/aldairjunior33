@@ -1,16 +1,42 @@
-## Hi there 👋
+# 🌟 Bem-vindo ao Meu Perfil GitHub! 🌟
 
-<!--
-**aldairjunior33/aldairjunior33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Sobre Mim
+Olá! Sou um desenvolvedor web com foco principal em front-end. Tenho uma paixão por criar interfaces de usuário elegantes e funcionais, utilizando as melhores práticas e tecnologias disponíveis.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias e Ferramentas
+Aqui estão algumas das tecnologias e ferramentas com as quais trabalho:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Linguagens de Programaçãon e Marcação:**
+  - JavaScript
+  - C
+  - C++
+  - Java
+  - Python
+  - HTML5
+  - CSS3
+
+- **Frameworks e Bibliotecas:**
+  - React
+  - Node.js
+
+- **Banco de Dados:**
+  - MySQL
+
+- **Metodologias e Ferramentas de Gerenciamento de Projetos:**
+  - Metodologias Ágeis (Scrum, Sprint)
+  - Guia MPS BR
+
+## 💼 Experiência e Conhecimentos
+- **Desenvolvimento Web:** 
+  - Front-end: Intermediário
+  - Back-end: Básico
+  
+- **Gerenciamento de Projetos:**
+  - Planejamento e execução eficientes utilizando metodologias ágeis.
+  - Participação em projetos implementando os princípios e diretrizes do Guia MPS BR.
+  
+- **Habilidades de Comunicação:**
+  - Comunicação oral e escrita clara e coesa.
+  - Perfil comunicativo e resiliente.
+
+Obrigado por visitar meu perfil! 😊
